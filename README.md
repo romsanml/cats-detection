@@ -1,3 +1,3 @@
 # cats-detection
 
-Ноутбук содержит модель YOLOv3, обученную с нуля на датасете из 200 фотографий кошек, размер фотографий составил [1920, 1080]. Размерность входного изображения для модели YOLO был взят [832, 832].
+The laptop contains a YOLOv3 model trained from scratch on a dataset of 200 cat photos, the size of the photos was [1920, 1080]. The dimension of the input image for the YOLO model was taken from [832, 832].
